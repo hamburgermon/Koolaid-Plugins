@@ -1,0 +1,22 @@
+name: KoolAidPlugin
+version: 1.0
+main: me.Penguin17.koolaidplugin.Koolaidplugin
+api-version: 1.20
+
+commands:
+  fly:
+    description: Toggle flight
+  vanish:
+    description: Toggle full vanish
+  god:
+    description: Toggle god mode
+  heal:
+    description: Heal yourself
+  feed:
+    description: Fill hunger
+  speed:
+    description: Toggle speed
+  specperm:
+    description: Give special permissions to a player (OP only)
+  remspec:
+    description: Remove special permissions from a player (OP only)
